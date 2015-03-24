@@ -3,7 +3,7 @@ var MARGIN = 8;
 
 var page = tabris.create("Page", {
   topLevel: true,
-  title: "Aud'cuisine"
+  title: "Stefan Sans ist ein Feinschmecker!!!"
 });
 
 var scrollView = tabris.create("ScrollComposite", {
