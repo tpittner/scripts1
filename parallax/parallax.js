@@ -6,7 +6,7 @@ var page = tabris.create("Page", {
   title: "Aud'cuisine"
 });
 
-var scrollView = tabris.create("ScrollView", {
+var scrollView = tabris.create("ScrollComposite", {
   layoutData: {left: 0, right: 0, top: 0, bottom: 0}
 }).appendTo(page);
 
